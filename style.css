@@ -1,0 +1,54 @@
+*{padding:0px;
+    margin: 0px;
+}
+body{
+    background-color:#A6E3E9;
+}
+
+div{background-color: #71C9CE;
+height: 60px;}
+
+nav-bar {
+
+font-family:"poppin", sans-serif;
+font-size: 20px; list-style: none;
+gap: 20px;
+
+}
+/* "consolas"  */
+#h3{
+    justify-content: left;
+    margin: 20px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+ ul{ list-style: none;
+    position: sticky;
+display: flex;
+gap: 20px;
+justify-content: center;
+ border-radius: 20;
+ height: 60px;
+}
+    
+nav-bar li a {
+    text-decoration: none; 
+    color:black;
+}
+#h2{ border-style: outset;
+    border-color: rgba(30, 203, 180, 0.639);
+    border-radius: 10px;
+    border-spacing: 30px;
+    padding: 10px;
+    font-weight: 500;
+    float: none;
+}
+section{ position: static; background-color: black;
+    bottom: auto; text-align: center; color: beige;
+   border-radius: 20px;border-color: rgb(26, 109, 100);
+   border-style: outset; border-width: 10px;
+   
+ }
+#main{
+    height: 200px;
+}
